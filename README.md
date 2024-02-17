@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
-|||
+|First|Second|
 |---|---|
-|![Screenshot from 2024-02-17 18-01-22](https://github.com/Sreyleak-Deth/Background_Color_Extension/assets/115885247/f17a01e1-e636-4e1e-bc2a-c0fd157b76a9)|![Screenshot from 2024-02-17 18-01-13](https://github.com/Sreyleak-Deth/Background_Color_Extension/assets/115885247/d76ba2e5-0ca3-47cf-b981-f0d46e1e0ffe)|
+|![Screenshot from 2024-02-17 18-01-13](https://github.com/Sreyleak-Deth/Background_Color_Extension/assets/115885247/d76ba2e5-0ca3-47cf-b981-f0d46e1e0ffe)|![Screenshot from 2024-02-17 18-01-22](https://github.com/Sreyleak-Deth/Background_Color_Extension/assets/115885247/f17a01e1-e636-4e1e-bc2a-c0fd157b76a9)|
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
